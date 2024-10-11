@@ -1,0 +1,7 @@
+tbody td {text-align: center;}
+
+th, td {border: 2px solid black; }
+
+tfoot {background-color: cyan;}
+
+tfoot, td {text-align: center;}
